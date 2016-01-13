@@ -1,0 +1,28 @@
+/*Home section style and elements inside it*/
+
+#home{
+    background-color: transparent;
+    color: #fff;
+    text-align: center;
+    padding-top: 15%;
+}
+
+#home h1{
+    margin-bottom: 30px;
+}
+
+#home h2{
+    margin-bottom: 50px;
+}
+
+#home .btn{
+    background-color: rgb(29, 167, 179);
+    color: #fff;
+    font-size: 20px;
+    padding: 8px 20px;
+    border-radius: 8px;
+}
+
+#home .btn:hover{
+    background-color: rgba(29, 167, 179, 0.5);
+}
