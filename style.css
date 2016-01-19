@@ -50,3 +50,37 @@
 .aboutImage{
     height: 120px;
 }
+
+
+/* Carousel section */
+
+#promise{
+    padding-top: 100px;
+}
+
+#myCarousel{
+    width: 60%;
+    margin: 0 auto;
+}
+
+.carousel-inner .item img{
+    height: 400px;
+    margin: 0 auto;
+}
+
+.carousel-caption{
+    position: relative;
+    left: auto;
+    right: auto;
+    height: 200px;
+}
+
+
+/* Footer Style */
+.footer{
+    background-color: rgba(29,167,179,0.1);
+    color: #fff;
+    padding: 10px 0;
+    margin-top: 150px;
+    font-size: 15px;
+}
